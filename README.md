@@ -90,8 +90,8 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Levina](https://github.com/levina-lab) ``Dev``
-- [White Devil](https://t.me/Dp_Bots_Channel) 🇱🇰Admin🇱🇰
+
+- [wamd13](https://t.me/lhrupdates_channel) 🇱🇰Admin🇱🇰
 
 ### Support & Updates 🎑
-<a href="https://t.me/Dp_Bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Dp_Bots_Channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/lhrupdates"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/lhrupdates_Channel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
